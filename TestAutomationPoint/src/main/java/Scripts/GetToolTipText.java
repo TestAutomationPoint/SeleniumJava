@@ -9,6 +9,7 @@ public class GetToolTipText {
 
 	public static void main(String[] args) throws InterruptedException {
 				
+		
 				//set webdrivermanager for chrome
 				WebDriverManager.chromedriver().setup();
 				ChromeDriver driver=new ChromeDriver();
