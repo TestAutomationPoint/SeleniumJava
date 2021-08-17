@@ -16,6 +16,8 @@ public class readexcel {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
+		
+		
 		//Create Input steam 
         File file =    new File("C:\\DjangoProjects\\DjangoSeleniumTutorialPoint\\static\\images\\data.xlsx");
         FileInputStream inputStream = new FileInputStream(file);
